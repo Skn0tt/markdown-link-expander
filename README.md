@@ -8,7 +8,7 @@ Easily create pretty link lists from your URLs.
 > <a href="https://twitter.com/hashtag/vscode?src=hash&amp;ref_src=twsrc%5Etfw">#vscode</a>
 > <br>
 > 
-> ![Demo Gif](./demo.gif)
+> ![Demo Gif](./demo.gif)<br>
 > &mdash; Simon Knott (@skn0tt) <a href="https://twitter.com/skn0tt/status/1280128212559958016?ref_src=twsrc%5Etfw">July 6, 2020</a>
 
 ## Getting Started
