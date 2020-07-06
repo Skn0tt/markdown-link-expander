@@ -4,6 +4,8 @@
 ![](https://badgen.net/vs-marketplace/d/skn0tt.markdown-link-expander)
 ![](https://badgen.net/vs-marketplace/i/skn0tt.markdown-link-expander)
 
+https://twitter.com/skn0tt/status/1280128212559958016?ref_src=twsrc%5Etfw
+
 Easily create pretty link lists from your URLs.
 
 > Built a <a href="https://twitter.com/code?ref_src=twsrc%5Etfw">@code</a> extension that makes it easier to build link lists.
@@ -21,9 +23,3 @@ Easily create pretty link lists from your URLs.
 2. Paste a URL and highlight it
 3. `CMD+ALT+P`; "Expand URL to Markdown"
 4. Profit
-
-## Release Notes
-
-### 0.1.0
-
-Initial release of URL expanding.
