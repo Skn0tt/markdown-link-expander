@@ -1,5 +1,9 @@
 # markdown-link-expander
 
+![](https://badgen.net/vs-marketplace/v/skn0tt.markdown-link-expander)
+![](https://badgen.net/vs-marketplace/d/skn0tt.markdown-link-expander)
+![](https://badgen.net/vs-marketplace/i/skn0tt.markdown-link-expander)
+
 Easily create pretty link lists from your URLs.
 
 > Built a <a href="https://twitter.com/code?ref_src=twsrc%5Etfw">@code</a> extension that makes it easier to build link lists.
