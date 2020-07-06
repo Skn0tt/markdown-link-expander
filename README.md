@@ -21,3 +21,8 @@ Easily create pretty link lists from your URLs.
 2. Paste a URL and highlight it
 3. `CMD+ALT+P`; "Expand URL to Markdown"
 4. Profit
+
+## TODO
+
+- [ ] Create a Logo ([Help Wanted](mailto:info@simonknott.de?subject=I%20wanna%20help%20you%20with%20markdown-link-expander!&body=Hi%20Simon%2C%0A%0A...%0A))
+- [ ] Add Citation Feature
