@@ -2,7 +2,7 @@
 	"name": "markdown-link-expander",
 	"displayName": "markdown-link-expander",
 	"description": "Easily create pretty Markdown links using its HTML title.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "skn0tt",
 	"repository": "https://github.com/Skn0tt/markdown-link-expander",
 	"engines": {

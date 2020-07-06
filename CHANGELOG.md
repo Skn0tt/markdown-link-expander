@@ -4,6 +4,10 @@ All notable changes to the "markdown-link-expander" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.1.1
+
+Fix error caused by required file not being bundled.
+
 ## 0.1.0
 
 Initial release of URL expanding.
