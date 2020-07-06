@@ -1,5 +1,5 @@
 import * as vscode from "vscode";
-import { fetchTitle } from "./test/fetchTitle";
+import { fetchTitle } from "./fetchTitle";
 
 export function activate(context: vscode.ExtensionContext) {
   const disposable = vscode.commands.registerCommand(
