@@ -15,6 +15,8 @@ Easily create pretty link lists from your URLs.
 > ![Demo Gif](./demo.gif)<br>
 > &mdash; Simon Knott (@skn0tt) <a href="https://twitter.com/skn0tt/status/1280128212559958016?ref_src=twsrc%5Etfw">July 6, 2020</a>
 
+> Check out [PasteURL](https://github.com/kukushi/PasteURL) too, it solves the same problem in a different way! :D
+
 ## Getting Started
 
 1. Install the extension
