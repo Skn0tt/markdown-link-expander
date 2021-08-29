@@ -1,4 +1,4 @@
-<img src="assets/logo.png" align="right" width="80px" />
+<img src="./assets/logo.png" align="right" width="100px" />
 
 # markdown-link-expander
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
