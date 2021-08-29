@@ -45,7 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://stephen.parish.co"><img src="https://avatars.githubusercontent.com/u/840677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephen Parish</b></sub></a><br /><a href="https://github.com/Skn0tt/markdown-link-expander/commits?author=stephenparish" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.instagram.com/anve.anve/"><img src="?s=100" width="100px;" alt=""/><br /><sub><b>Anna Verbovaya</b></sub></a><br /><a href="#design-anve.anve" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.instagram.com/anve.anve/"><img src="https://i.picsum.photos/id/616/100/100.jpg?hmac=J0IcRJ6-nYjO2lYan1ZZJIgJPVj6MHO1Tj5UP6KeQbE?s=100" width="100px;" alt=""/><br /><sub><b>Anna Verbovaya</b></sub></a><br /><a href="#design-anve.anve" title="Design">🎨</a></td>
   </tr>
 </table>
 
