@@ -1,11 +1,15 @@
+<img src="assets/logo.png" align="right" width="80px" />
+
 # markdown-link-expander
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://badgen.net/vs-marketplace/v/skn0tt.markdown-link-expander)
 ![](https://badgen.net/vs-marketplace/d/skn0tt.markdown-link-expander)
 ![](https://badgen.net/vs-marketplace/i/skn0tt.markdown-link-expander)
+
+> Logo by [Anna Verbovaya](https://www.instagram.com/anve.anve/)
 
 Easily create pretty link lists from your URLs.
 
@@ -29,7 +33,6 @@ Easily create pretty link lists from your URLs.
 
 ## TODO
 
-- [ ] Create a Logo ([Help Wanted](mailto:info@simonknott.de?subject=I%20wanna%20help%20you%20with%20markdown-link-expander!&body=Hi%20Simon%2C%0A%0A...%0A))
 - [ ] Add Citation Feature
 
 ## Contributors ✨
@@ -42,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://stephen.parish.co"><img src="https://avatars.githubusercontent.com/u/840677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephen Parish</b></sub></a><br /><a href="https://github.com/Skn0tt/markdown-link-expander/commits?author=stephenparish" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.instagram.com/anve.anve/"><img src="?s=100" width="100px;" alt=""/><br /><sub><b>Anna Verbovaya</b></sub></a><br /><a href="#design-anve.anve" title="Design">🎨</a></td>
   </tr>
 </table>
 
